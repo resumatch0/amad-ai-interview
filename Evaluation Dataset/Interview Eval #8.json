@@ -1,0 +1,145 @@
+{
+  "job_description": "Job Title: Entry level AI Engineer\n\nResponsibilities:\n- Build and set up machine learning models for Natural Language Processing (NLP). [cite: 215]\n- Work with AI models like BERT and GPT to handle different tasks. [cite: 216]\n- Optimize models to ensure they respond quickly and efficiently. [cite: 217]\n- Collaborate with the team to integrate AI into real applications. [cite: 218]\n\nRequirements:\n- Comfortable writing code in Python. [cite: 220]\n- Familiarity with AI tools like PyTorch or Hugging Face. [cite: 221]\n- Basic understanding of how computers process text (Arabic AI/AraBERT is a plus). [cite: 222]\n- Ability to write clean and organized code. [cite: 223]",
+  "candidate_cv": {
+    "candidate_name": "DATABASE PROGRAMMER/ANALYST (.NET DEVELOPER)",
+    "contact_info": {
+      "location": "City, State",
+      "email": null,
+      "linkedin": null
+    },
+    "career_overview": "Software Engineer with 2 years in Web Developer specializing in front end development. [cite: 35] Proficient in Software Development Life Cycle (SDLC) and SCRUM AGILE methodologies of development process to produce software solutions by team Involved in designing, planning, developing and implementing Microsoft.Net based solutions that meet quality and code standards. [cite: 36]",
+    "education": [
+      {
+        "degree": "Master of Science, Computer Engineering",
+        "institution": "University of Missouri",
+        "year": "Present"
+      },
+      {
+        "degree": "Bachelor of Technology, Electrical and Electronics Engineering",
+        "institution": "Jawaharlal Nehru Technological University India",
+        "year": "May 2013"
+      }
+    ],
+    "experience": [
+      {
+        "role": "Database Programmer/Analyst (.NET Developer)",
+        "company": "Company Name 1/4",
+        "dates": "Jun 2014 to Feb 2016",
+        "responsibilities": [
+          "Worked as Graduate Research Assistant performing the duties of Database Programmer/Analyst at Application Development Network (ADN), DoIT which supports University of Missouri System faculty and students through agile and rapid creation of new applications. [cite: 59, 60]",
+          "Created a Availability Calendar Grid where each cell represents time (1 hour span) and day of the week. [cite: 67, 68]",
+          "Automatically populated the course schedule which comes from different database developed C# Console Application for Scheduled email task. [cite: 70]",
+          "Created Class libraries out of the main project to access the database which can be used by both Console Application for Schedule task and web application. [cite: 72]",
+          "Developed a web interface for Administrators to upload the pdf files into database which can be viewed by students. [cite: 80]",
+          "Scrum Masters can estimate the length and cost to build the application (Project Estimator) based on number of developers, Sprint length, weeks of UAT etc which they can share with clients. [cite: 90]",
+          "Developed Application using AJAX controls like modal popup, ASP.Net server controls like listview, formview, worked on Clientside and Server side Validations and created Master Pages. [cite: 102, 103]",
+          "Created dynamic queries, stored procedures, Views and triggers in SQL server for the database manipulation. [cite: 107]"
+        ]
+      }
+    ],
+    "core_skills": [
+      "ASP.Net", "C#", "JavaScript", "jQuery", "VB.Net", "C", "C++", "Java", ".Net Framework 4.0/4.5", "ASP.NET MVC", "ADO.Net", "Entity Framework", "AJAX", "Web Service", "LINQ", "SQL", "MySql", "Windows", "Tortoise SVN", "GitHub"
+    ],
+    "extra_sections": {
+      "highlights": [
+        "Strong experience in data retrieval and manipulation using ADO.Net data objects such as Dataset, Data Reader, Data list, Data Adaptor, Entity Frame work. [cite: 38]",
+        "Good experience in writing Class Library using C#, LINQ to SQL queries in Database Access layer to interface with SQL Database. [cite: 39]",
+        "Worked extensively with. Net Server Controls, Web User Controls, Data Grid, Web Control, Form Validation Controls and created Custom controls. [cite: 40]"
+      ]
+    }
+  },
+  "transcript": [
+    {
+      "role": "agent",
+      "content": "Hello, and welcome. It's great to have you here today. Are you ready to begin the interview? [cite: 130]"
+    },
+    {
+      "role": "candidate",
+      "content": "Hello, I'm happy to be here. Let's begin. [cite: 135]"
+    },
+    {
+      "role": "agent",
+      "content": "Great, let's get started. We'll begin with the first question. [cite: 136]"
+    },
+    {
+      "role": "agent",
+      "content": "Let's start with Python. Can you give an example of how you've used Python in a project related to artificial intelligence or natural language processing? [cite: 140]"
+    },
+    {
+      "role": "candidate",
+      "content": "Yes, my experience is in software engineering and data management, but I'm currently trying to bridge that into the AI NLP world through my masters in computer engineering. [cite: 145]"
+    },
+    {
+      "role": "agent",
+      "content": "I understand that you're currently bridging your background in software engineering and data management into the AI NLP field through your masters. Could you provide an example of how you've used Python in a project related to artificial intelligence or natural language processing, even if it's something you're working on now? [cite: 146, 147]"
+    },
+    {
+      "role": "candidate",
+      "content": "Well, I had the project in Atlas. I used it. It was for the University of Missouri where I handed large-scale data synchronization. I used automated retrieval, where I collaborated with Data Warehouse team to automatically pull the schedule's internal consistent. I developed a C-sharp console application to manage these schedules, tasks, ensuring data was updated daily. I used Linux. I am the data access layer and stored procedures to filter and structure the data as it was retrieved. I used entity framework or relationship mapping to ensure that the retrieved data correct healing, tutors, tutes, and various specific classes. Regarding the specific AI modeling scripts, as I am an entry-level candidate, I am currently completing my master's. Most of my specific Python modeling work has been within an academic research or context rather than a professional role, and I am eager to apply my standards to your production way of planning. [cite: 152, 153, 154, 155, 156, 157, 158, 159]"
+    },
+    {
+      "role": "agent",
+      "content": "I understand that most of your Python modeling experience is within an academic context. Could you provide more details about the specific AI or NLP projects you worked on during your studies, even if they were smaller scale? [cite: 160, 161]"
+    },
+    {
+      "role": "candidate",
+      "content": "Imicted as active infection stone. Next page is this report on impossible and mixed Tripodзarelyfol. johnnywi outlets. Giannywi Kreid tries to kill her in the Acoustic wczewnely even theres an strange feel but, Isaiah said he has an illegal perception as QL data systems, my master has allowed me to focus heavily on NLP and machine learning. Some of the specific projects I worked on during my studies was I died because where new still sub [cite: 166, 167, 168]"
+    },
+    {
+      "role": "agent",
+      "content": "That is alright. We will move on to the next question. Please note that unanswered questions will be reflected in your final evaluation. [cite: 169, 170]"
+    },
+    {
+      "role": "agent",
+      "content": "Can you provide more details about a project where you used Python specifically for tasks involving artificial intelligence or natural language processing? [cite: 174]"
+    },
+    {
+      "role": "candidate",
+      "content": "Skip the question. [cite: 179]"
+    },
+    {
+      "role": "agent",
+      "content": "I understand that you may have chosen to skip this question. However, your response will be noted in our evaluation. If you'd like to provide more information about a project involving Python and AI/NLP at some point during the interview, please let me know. [cite: 180, 181]"
+    },
+    {
+      "role": "agent",
+      "content": "Let's move on then. Could you tell me about a project where you utilized Linux commands or shell scripting? How did this contribute to the success of the project? [cite: 185, 186]"
+    },
+    {
+      "role": "candidate",
+      "content": "And here we go again. Okay. Yeah, my experience with the Linux contributes that technical foundation required by the role. So I'm proficient in Windows and have a technical background in computer engineering, which would include the study of various operating systems. [cite: 191, 192]"
+    },
+    {
+      "role": "agent",
+      "content": "I understand that you might not have a specific project in mind right now, but could you provide an example of how you used Linux commands or shell scripting in your work? This would help us understand your practical experience better. [cite: 193, 194]"
+    },
+    {
+      "role": "candidate",
+      "content": "hus s s and I'm proficient in languages like C and C++ which are core tolemic space system development. [cite: 199]"
+    },
+    {
+      "role": "agent",
+      "content": "I understand that you mentioned your proficiency in C and C++, which is valuable for systems development. However, could you provide an example of how you used Linux commands or shell scripting in a project? This would help us understand how these skills contributed to the project's success. [cite: 200, 201, 202]"
+    },
+    {
+      "role": "candidate",
+      "content": ". . . . . . [cite: 207]"
+    },
+    {
+      "role": "agent",
+      "content": "That is alright. We will move on to the next question. Please note that unanswered questions will be reflected in your final evaluation. [cite: 208, 209]"
+    }
+  ],
+  "scorecard": {
+    "final_score": "1 / 5",
+    "decision": "FAIL",
+    "reason": "The candidate provided vague and hypothetical answers, lacking specific evidence and proactive traits. [cite: 122]",
+    "detailed_report": [
+      "The candidate's responses during the interview were not clear or detailed enough to assess their technical knowledge or behavioral evidence. [cite: 123]",
+      "They did not provide any specific examples or projects related to Python, artificial intelligence, or natural language processing. [cite: 123]",
+      "Additionally, they did not engage in the conversation about Linux commands or shell scripting, providing no context or evidence of their usage. [cite: 123]",
+      "Their answers were not in the STAR method format and lacked a proactive and methodical approach. [cite: 123]",
+      "The candidate's responses indicate a need for improvement in their ability to communicate their technical skills and experiences. [cite: 123]"
+    ]
+  }
+}

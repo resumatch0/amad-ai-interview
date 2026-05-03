@@ -1,0 +1,193 @@
+{
+  "job_description": "Job Title: Entry level Software Engineer\n\nResponsibilities:\n- Develop and maintain high-quality software applications and features.\n- Write clean, scalable, and efficient code following industry best practices.\n- Debug and troubleshoot software issues to improve system performance.\n- Document technical processes and code logic for future maintenance and clarity.\n- Collaborate with the team to design and implement technical solutions.\n\nRequirements:\n- Strong proficiency in programming languages such as Python, Java, or JavaScript.\n- Solid understanding of Data Structures, Algorithms, and OOP concepts.\n- Familiarity with version control systems like Git and GitHub.\n- Basic knowledge of databases (SQL/NoSQL) and API integration.\n- Ability to write clean, organized, and well-documented code with clear comments.\n- Experience in writing technical documentation and README files for projects.",
+  "candidate_cv": {
+    "candidate_name": "CONSULTANT",
+    "contact_info": {
+      "location": "City, State",
+      "email": null,
+      "linkedin": null
+    },
+    "career_overview": "Professional, dedicated hard worker. Over 10 years of Customer Service Experience. Self-motivated inside Sales Representative with excellent verbal and written communication skills and strong computer and CRM experience. Customer service professional dedicated to effective team management and customer satisfaction.",
+    "education": [
+      {
+        "degree": "High School Diploma: General Education",
+        "institution": "Pine Ridge High School",
+        "year": "2005"
+      }
+    ],
+    "experience": [
+      {
+        "role": "Consultant",
+        "company": "Company Name",
+        "dates": "June 2015 to September 2015",
+        "responsibilities": [
+          "Help customers select products that best fit their needs.",
+          "Complete customer order's professionally & on time.",
+          "Advise customers of services & product of the month.",
+          "Inform customer of knowledge on \"Survey\" and \"Pack Plus services\".",
+          "Pack and Ship customer packages."
+        ]
+      },
+      {
+        "role": "Sales",
+        "company": "Company Name",
+        "dates": "February 2015 to June 2015",
+        "responsibilities": [
+          "Maintained accuracy in calculation discounts, interest and commissions.",
+          "Assist customers in finding vehicle which fits their needs and wants.",
+          "Inform customer of all features on vehicles, and different trim levels.",
+          "Contacted customer per internet request to make appointments and bring them in.",
+          "Advise customer of all warranty and service information."
+        ]
+      },
+      {
+        "role": "Manager",
+        "company": "Company Name",
+        "dates": "February 2012 to January 2015",
+        "responsibilities": [
+          "Composed effective accounting reports summarizing accounts payable data.",
+          "Balanced monthly general ledger accounts to accurately record cost and month end accruals.",
+          "Created daily and weekly cash reports for accounting management.",
+          "Supervised invoice processing, purchase orders, expense reports, credit memos and payment transactions.",
+          "Supervised employees with following company polices. Hired and terminated employees."
+        ]
+      }
+    ],
+    "core_skills": [
+      "Adobe Proficient", "Windows XP", "Inventory control", "Employee scheduling", "MS Office", "Cash handling", "CRM Expertise", "Dealersocket Proficiency", "Time management"
+    ],
+    "extra_sections": {
+      "summary_details": [
+        "Management professional effective at building highly-motivated teams as well as leading cross functional teams in a fast-paced environment.",
+        "Ability to establish priorities and meet challenges head-on.",
+        "Strong project management skills. Organized, independent worker with strong time-management skills."
+      ]
+    }
+  },
+  "transcript": [
+    {
+      "role": "agent",
+      "content": "Hello, and welcome. It's great to have you here today. Are you ready to begin the interview?"
+    },
+    {
+      "role": "candidate",
+      "content": "Hi, happy to be here. Let's begin."
+    },
+    {
+      "role": "agent",
+      "content": "Great! To start, could you explain how Python relates to the job description requirements?"
+    },
+    {
+      "role": "candidate",
+      "content": "Yes, the key to transition my existence kills into this software engineering role. I have proven the ability to resolve technical problems for problem solving. As for the computational logic, my experience composing effective accounting reports and maintaining detailed customer logs translates directly to the requirement for writing clean while documented code. For data and having experience in CRM systems and dealer's socket, I understand how data flows through an application. For project management, I would use Python to automate the kind of complex paths previously handed manually while juggling multiple tasks on your pressure."
+    },
+    {
+      "role": "agent",
+      "content": "How does your proficiency with Linux contributes to meeting the job description requirements?"
+    },
+    {
+      "role": "candidate",
+      "content": "and the XP has given me a solid foundation in operating systems, which I am now applying to Linux to make the server manage with needs of this role. So, there needs with the system navigation, troubleshooting, organization and meeting challenges."
+    },
+    {
+      "role": "agent",
+      "content": "Could you provide more details on how you navigate, troubleshoot, organize, and meet the specific challenges required for this role using Linux?"
+    },
+    {
+      "role": "candidate",
+      "content": "I want to skip this question. Why expertise is only in Windows 7 and XP experience? While I have a strong ability to meet challenging challenges head on, I'm selling the early stages of applying that on its Linux command, so unfortunately I cannot answer your question."
+    },
+    {
+      "role": "agent",
+      "content": "Can you provide an example of how your experience with SQL has helped you achieve goals related to the job description requirements?"
+    },
+    {
+      "role": "candidate",
+      "content": "Yes, as an inferior, yes, thick and resourceful person, I have used my CRM expertise and dealer's target proficiency as a foundation for learning SQL. So for that organization, my experience composing effective account geometry reports and maybe I would be able to identify issues with the customer maintaining blogs. Also, I'm happy to apply my project management skills."
+    },
+    {
+      "role": "agent",
+      "content": "Could you please elaborate on how you used SQL specifically to identify issues with customer maintenance logs and generate those account geometry reports?"
+    },
+    {
+      "role": "candidate",
+      "content": "Just as I identified the customer issue by maintaining logs, I'm going to put the UIuel"
+    },
+    {
+      "role": "agent",
+      "content": "Could you please provide an example of how your experience with SQL has helped you achieve goals related to the job description requirements?"
+    },
+    {
+      "role": "candidate",
+      "content": "I don't have experience but I might use it. So I am enthusiastic and enthusiastic and I will use my CRM expertise and dealers talk proficiency for foundation for learning SQL. At the moment I don't have any SQL prior projects."
+    },
+    {
+      "role": "agent",
+      "content": "Could you share an example of how your experience with shell scripts has contributed to achieving goals relevant to the job description requirements?"
+    },
+    {
+      "role": "candidate",
+      "content": "Yes, as a beginner who is even he has to use my experience in troubleshooting technical problems to learn how shell scripting can automate repetitive tasks I handled in my previous"
+    },
+    {
+      "role": "agent",
+      "content": "Could you please elaborate on how your experience with shell scripting has helped you achieve specific goals in your previous role?"
+    },
+    {
+      "role": "candidate",
+      "content": "I would use my experience in troubleshooting technical problems to learn how shell scripting can be automated for the repetitive tasks. So I might apply my management skills to learn it and while I am in the early stages of my career my ability to meet challenges head-ons means I am dictated to mastering shell scripting to help the team design and implement the technical solution."
+    },
+    {
+      "role": "agent",
+      "content": "Could you provide an example of a specific task where you used shell scripting to automate something repetitive, and how this automation helped achieve a goal for your team?"
+    },
+    {
+      "role": "candidate",
+      "content": "Well, I haven't used the shell scripting, it's a new concept to me. I would start learning it and I might use it for handling accuracy or maybe for some identifying issues."
+    },
+    {
+      "role": "agent",
+      "content": "The system starts experiencing unexpected crashes after these updates. What approach would you take to troubleshoot this issue, considering both software and hardware aspects?"
+    },
+    {
+      "role": "candidate",
+      "content": "... ... ... ... ... Able to be a part of the project. So I might identify the issue. I would start by creating and maintaining a log of the crashes, similar to how I managed customer complete logs. I would ask clear and specific questions to the team to understand it. I would verify if the clean organized code patches are introduced to logic error using my inventory control. In my mindset, I would verify if a new performance out the updates are compatible with our current hardware specifications. And I would ask the team to help."
+    },
+    {
+      "role": "agent",
+      "content": "Could you elaborate more on how you would create and maintain the log of crashes? How do you plan to use this information to identify patterns or common factors among the crashes?"
+    },
+    {
+      "role": "candidate",
+      "content": "I would check the software so I would verify if the coded clean or security patches were included by reviewing the technical documentation. With a hardware, I would verify if the new performance updates are compatible to our current hardware specifications."
+    },
+    {
+      "role": "agent",
+      "content": "Could you elaborate on how you would methodically verify the compatibility of the new performance updates with your current hardware specifications, and what steps you would take to ensure that the software and hardware are working in harmony without conflicts?"
+    },
+    {
+      "role": "candidate",
+      "content": "I would try to do the launch internally and then if they were tested there were any problems. I would see what changed exactly and see the hardware specifications and apply the software to that. Yes, for them to work harmonically."
+    },
+    {
+      "role": "agent",
+      "content": "We have covered all my technical questions. Before we finish, do you have any questions for me about the role or the company?"
+    },
+    {
+      "role": "candidate",
+      "content": "No thank you."
+    }
+  ],
+  "scorecard": {
+    "final_score": "2 / 5",
+    "decision": "FAIL",
+    "reason": "Lack of specific technical evidence and proactive problem-solving. [cite: 19]",
+    "detailed_report": [
+      "The candidate demonstrated a lack of depth in their technical knowledge and problem-solving skills. [cite: 21]",
+      "They frequently used vague or hypothetical responses, and did not provide specific examples of their experience. [cite: 22]",
+      "Additionally, they did not show a strong understanding of the job requirements or the technologies mentioned in the job description. [cite: 23]",
+      "The candidate's responses also lacked the STAR method and showed a lack of proactive behavior. [cite: 24]",
+      "They also did not ask any questions during the interview. [cite: 25]"
+    ]
+  }
+}

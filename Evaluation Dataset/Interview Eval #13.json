@@ -1,0 +1,181 @@
+{
+  "job_description": "Job Title: Entry level Software Engineer\n\nResponsibilities:\n- Develop and maintain high-quality software applications and features. [cite: 521]\n- Write clean, scalable, and efficient code following industry best practices. [cite: 522, 523]\n- Debug and troubleshoot software issues to improve system performance. [cite: 524]\n- Document technical processes and code logic for future maintenance and clarity. [cite: 525, 526]\n- Collaborate with the team to design and implement technical solutions. [cite: 527]\n\nRequirements:\n- Strong proficiency in programming languages such as Python, Java, or JavaScript. [cite: 529, 530]\n- Solid understanding of Data Structures, Algorithms, and OOP concepts. [cite: 531]\n- Familiarity with version control systems like Git and GitHub. [cite: 532]\n- Basic knowledge of databases (SQL/NoSQL) and API integration. [cite: 533]\n- Ability to write clean, organized, and well-documented code with clear comments. [cite: 534, 535]\n- Experience in writing technical documentation and README files for projects. [cite: 536, 537]",
+  "candidate_cv": {
+    "candidate_name": "CONSULTANT",
+    "contact_info": {
+      "location": "City, State",
+      "email": null,
+      "linkedin": null
+    },
+    "career_overview": "Consultant/System Engineer with 6 years in HealthCare IT. Primary focus has been on Linux with a recent emphasis on Regulatory Consulting and Transition of Care. [cite: 365] Experienced in training and development of associates along with development of documentation. [cite: 366]",
+    "education": [
+      {
+        "degree": "MBA: Information Systems",
+        "institution": "Park University",
+        "year": "2015" [cite: 420]
+      },
+      {
+        "degree": "Bachelors of Science: Business Administration/Management",
+        "institution": "Park University",
+        "year": "2015" [cite: 421]
+      },
+      {
+        "degree": "Associates of Applied Science: Computer Networking",
+        "institution": "ITT-Technical Institute",
+        "year": "2010" [cite: 421]
+      }
+    ],
+    "experience": [
+      {
+        "role": "Consultant",
+        "company": "Company Name",
+        "dates": "08/2015 to Current",
+        "responsibilities": [
+          "Provides leadership and oversight to engagements so that results are met on time as well as to ensure value is being provided to the client. [cite: 382]",
+          "Ensures appropriate resources are allocated and maintained to facilitate successful completion of projects. [cite: 383]",
+          "Manage Provider and hospital data through various tools including Discern VisualDeveloper, HNAuser, and Bedrock. [cite: 387]",
+          "Build hundreds of rules and pools for Direct and Transition of Care for clients. [cite: 387]",
+          "Create and maintain build guides and team collateral to use for future client and new hire training. [cite: 388]",
+          "Build guides and workflows were also used to partner with an internal automation team to streamline our processes. [cite: 389]"
+        ]
+      },
+      {
+        "role": "SYSTEM ENGINEER - Health Sentry",
+        "company": "Company Name",
+        "dates": "02/2013 to 08/2015",
+        "responsibilities": [
+          "Backend support on production servers of extracted data on Linux systems including investigation of corrupt data, creating SSH keys, extracting data from client database, managing disk space and troubleshooting. [cite: 392]",
+          "Front end work on production servers by maintaining OpsJobs and troubleshooting any operation failures. [cite: 393]",
+          "Create various macros and spreadsheets for quality assurance checking Create and run numerous SQL queries. [cite: 396]",
+          "Manage and monitor the FTP, PHINMS and VPN connections on a daily basis. [cite: 397]",
+          "Use custom CCL scripts to modify the format of HL7 messages. [cite: 398]",
+          "Create and provide appropriate workflow documentation for clients to support the system. [cite: 399]"
+        ]
+      },
+      {
+        "role": "SYSTEM ENGINEER",
+        "company": "Company Name",
+        "dates": "06/2012 to 02/2013",
+        "responsibilities": [
+          "Assist HR teams with designing and implementing solutions. [cite: 403]",
+          "Rebuilt a custom tool for Events Planning team using Microsoft Access. [cite: 403]",
+          "Put together documentation for implemented changes. [cite: 404]",
+          "Assist with PeopleSoft, Data Archive Manager, and Taleo resume parsing project. [cite: 404]"
+        ]
+      },
+      {
+        "role": "SYSTEM ENGINEER - Project Implementation",
+        "company": "Company Name",
+        "dates": "05/2010 to 06/2012",
+        "responsibilities": [
+          "Backend support of servers operating on Linux, AIX, HP-UX, and occasional VMS systems. [cite: 407]",
+          "Identify where applications are having performance/reliability issues; analyzes and formulate a proposed method to correct issues. [cite: 409]",
+          "Perform domain replicate/refreshes from a production environment to a non-production environment. [cite: 410]",
+          "Manage end user access and privileges including group 0 access and creation of user profiles. [cite: 413]",
+          "Build various servers including Websphere, RRD, Chart and Citrix Servers. [cite: 415]"
+        ]
+      }
+    ],
+    "core_skills": [
+      "AIX", "automation", "change management", "Citrix", "Consulting", "client", "database", "delivery", "designing", "documentation", "FTP", "HP-UX", "HR", "leadership", "Linux", "macros", "managing", "meetings", "access", "Microsoft Access", "Works", "PeopleSoft", "policies", "processes", "quality assurance", "SSH", "Servers", "scripts", "spreadsheets", "SQL", "troubleshooting", "VPN", "VMS", "Websphere", "workflow", "workshops" [cite: 422]
+    ],
+    "extra_sections": {
+      "relevant_experience_highlights": [
+        "Created build guides that ultimately led to the automation of many elements of the build process. [cite: 378]",
+        "Automation saved teams weeks of build time and allowed for a more standardized process. [cite: 379]"
+      ]
+    }
+  },
+  "transcript": [
+    {
+      "role": "agent",
+      "content": "Hello, and welcome. It's great to have you here today. Are you ready to begin the interview? [cite: 437]"
+    },
+    {
+      "role": "candidate",
+      "content": "Hi, let's begin. [cite: 442]"
+    },
+    {
+      "role": "agent",
+      "content": "Great, let's get started. We'll begin with our first question. [cite: 443]"
+    },
+    {
+      "role": "agent",
+      "content": "Sure, let's start with Python. Can you give an example of how you've used Python in a project that aligns with the job description requirements? [cite: 447]"
+    },
+    {
+      "role": "candidate",
+      "content": "Yes, while my background is primarily in system engineering, I have utilized custom scripting to automate complex technical processes. For instance, I use CCL script to modify the format of 8L7 messages and create various mercrose and SQL queries for quality assurance and further extraction. [cite: 452, 453]"
+    },
+    {
+      "role": "agent",
+      "content": "It sounds like you're using Python indirectly through CCL scripts. Could you provide more details on how these scripts integrate with your workflow and how they contribute to the project's objectives, especially in relation to the job description? [cite: 454, 455]"
+    },
+    {
+      "role": "candidate",
+      "content": "Yes, the BCL script were integral to the automation and system performance goals that I'm aligned with. I use them to programmically modify the format of HL7 messages ensuring data integrity as it moves between production servers and client data races. Specifically, this aligns with the software engineering requirements who are difficult and troubleshooting data integration and finally its [cite: 460, 461, 462]"
+    },
+    {
+      "role": "agent",
+      "content": "I see that you mentioned using BCL scripts for modifying HL7 messages to ensure data integrity. Could you please elaborate on how this process works and provide more details about the specific tasks you performed? [cite: 463, 464]"
+    },
+    {
+      "role": "candidate",
+      "content": "No, I meant CCL scripts and they were all integral in their automation and system performance. I used them to modify the format of the HL7 messages. [cite: 469, 470]"
+    },
+    {
+      "role": "agent",
+      "content": "That is alright. We will move on to the next question. Please note that unanswered questions will be reflected in your final evaluation. [cite: 471, 472]"
+    },
+    {
+      "role": "agent",
+      "content": "Sure, let’s move on to another skill then. How about we discuss your experience with Linux? Can you describe a situation where you utilized Linux commands or tools to solve a problem related to the job description requirements? [cite: 476, 477]"
+    },
+    {
+      "role": "candidate",
+      "content": "Yes, I managed backend production servers on Linux and HP UX environments. Application-based performance or reliability issues are used Linux tools to investigate crop data, manage disk space and troubleshoot operation failures. [cite: 482, 483]"
+    },
+    {
+      "role": "agent",
+      "content": "Could you please provide more details about how you used Linux tools to manage disk space and troubleshoot operation failures? This will help me understand your skills better. [cite: 484, 485]"
+    },
+    {
+      "role": "candidate",
+      "content": "Yes, I might not be able to support on production servers specifically to maintain systems and performance. How I utilize the Linux tools for these tags was for this space management, I actively managed it on the Linux systems to prevent server crashes and ensure data extraction could proceed without interruption. And I investigated crop data and operation failures on production servers by maintaining ops jobs and using system logs to identify the root calls. [cite: 490, 491, 492]"
+    },
+    {
+      "role": "agent",
+      "content": "I understand that managing space and ensuring data extraction can be crucial. Could you provide more details on how you used specific Linux commands or tools to manage space and prevent server crashes, especially in relation to the job requirements? [cite: 493, 494]"
+    },
+    {
+      "role": "candidate",
+      "content": "Yes, in my role managing disk base was critical, a critical part of maintaining high quality system performance. I primarily use the following approach to prevent server crashes and ensure successful data extraction. [cite: 499, 500]"
+    },
+    {
+      "role": "agent",
+      "content": "That is alright. We will move on to the next question. Please note that unanswered questions will be reflected in your final evaluation. [cite: 501, 502]"
+    },
+    {
+      "role": "agent",
+      "content": "Sure, let's dive into your experience with SQL. Could you share an instance where you used SQL to address a specific challenge or improve efficiency in a previous project relevant to the job description requirements? [cite: 506]"
+    },
+    {
+      "role": "candidate",
+      "content": "Yes, in my role as a system engineer, I frequently used SQL to maintain that integrity and improve operational efficiency. Specifically, I extracted data from client databases where I run numerous SQL queries to retrieve specific data sets from production servers for analysis and for analysis and troubleshooting. I resolve data extract issues where I work alongside other engineers to alleviate problems with data extracts using SQL to identify and correct the discrepancies in the database. My SQL work supported the identification of the reliability issues, allowing me to formulate reports methods to correct them and enhance system performance. [cite: 511, 512, 513, 514]"
+    },
+    {
+      "role": "agent",
+      "content": "That sounds like a valuable experience. Could you elaborate on how you used SQL to correct the reliability issues and what kind of reports you created to enhance system performance? [cite: 515]"
+    }
+  ],
+  "scorecard": {
+    "final_score": "4 / 5",
+    "decision": "PASS",
+    "reason": "The candidate provided specific examples of using Python, Linux, and SQL in previous roles, demonstrating a good understanding of the required skills. [cite: 425, 426, 427]",
+    "detailed_report": [
+      "The candidate showed a strong ability to apply their technical knowledge in real-world situations, using the STAR method to describe their experiences. [cite: 429]",
+      "Their responses were methodical and proactive, indicating a good level of conscientiousness. [cite: 430]",
+      "However, the candidate could have provided more detail and ownership in some instances, which could be an area for improvement. [cite: 431]"
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "job_description": "Job Title: Entry level AI Engineer\n\nResponsibilities:\n- Build and set up machine learning models for Natural Language Processing (NLP).\n- Work with AI models like BERT and GPT to handle different tasks.\n- Optimize models to ensure they respond quickly and efficiently.\n- Collaborate with the team to integrate AI into real applications.\n\nRequirements:\n- Comfortable writing code in Python.\n- Familiarity with AI tools like PyTorch or Hugging Face.\n- Basic understanding of how computers process text (Arabic AI/AraBERT is a plus).\n- Ability to write clean and organized code.",
+  "candidate_cv": {
+    "candidate_name": "ENGINEERING MANAGER",
+    "contact_info": {
+      "location": "City, State",
+      "email": null,
+      "linkedin": null
+    },
+    "career_overview": "To design, develop and manage products in the field of consumer electronics devices, networking protocols, internet applications and connected devices. Vision to create personalized experiences based on machine learning.",
+    "education": [
+      {
+        "degree": "M.Tech: Control Systems",
+        "institution": "Indian Institute of Technology",
+        "year": "1988"
+      },
+      {
+        "degree": "B.E: Electrical Engineering",
+        "institution": "Devi Ahilya University",
+        "year": "1987"
+      }
+    ],
+    "experience": [
+      {
+        "role": "Engineering Manager",
+        "company": "Company Name",
+        "dates": "November 2010 to May 2016",
+        "responsibilities": [
+          "Managing multiple work streams and teams related to platform software development for set-top boxes.",
+          "Evangelized and led development of new middleware solution for OTT and other multimedia playback.",
+          "Led architecture and development of platform software solution for set-top box for MSOs involving HTML5 UI, home networking, and DRM.",
+          "Led groups towards porting Comcast RDK platform on ST Micro SoCs and RNG150 platforms."
+        ]
+      },
+      {
+        "role": "Engineering Manager, Architect",
+        "company": "Company Name",
+        "dates": "January 2004 to November 2010",
+        "responsibilities": [
+          "Led a team of engineers towards development of BD-J stack for Blu-ray Players, writing initial code for core modules like file system and application management.",
+          "Played critical role in development and architecture of OCAP middleware, contributing to specification groups and writing code for the DSM-CC file system.",
+          "Worked on development of Advanced Media Player with music recommendation features using cloud servers and Restful JSON APIs."
+        ]
+      },
+      {
+        "role": "Senior Software Engineer",
+        "company": "Company Name",
+        "dates": "April 2000 to January 2004",
+        "responsibilities": [
+          "Developed technologies related to interactive TV set-top boxes, including compact client development for Comcast.",
+          "Implemented Dynamic Internet Protocol Interface (DIPI) clients and IPGateway session protocols.",
+          "Developed Tuner and MPEG Java APIs and integrated VOD clients for Micro 1.0 and 2.0 clients."
+        ]
+      }
+    ],
+    "core_skills": [
+      "C", "C++", "JAVA", "Embedded Linux", "LXC", "Device Drivers", "JSON", "REST", "SOAP", "XML", "Machine Learning (Tensorflow)", "RTOS (OS9, VXWorks)", "Agile Methodologies", "Scrum", "SDLC"
+    ],
+    "extra_sections": {
+      "certifications": [
+        "Course: Machine learning, Coursera - Stanford USA (2016)"
+      ],
+      "accomplishments": [
+        "Instrumental in building first generation Blu-ray players.",
+        "Developed excitation control system for alternators, including complete hardware and software.",
+        "Master's thesis in adaptive control."
+      ]
+    }
+  },
+  "transcript": [
+    {
+      "role": "agent",
+      "content": "Hello, and welcome. It's great to have you here today. Are you ready to begin the interview?"
+    },
+    {
+      "role": "candidate",
+      "content": "Yes, I am. Let's begin."
+    },
+    {
+      "role": "agent",
+      "content": "Great! Let's start by discussing Python. Can you explain how your experience with Python relates to the job description we're working towards?"
+    },
+    {
+      "role": "candidate",
+      "content": "Honestly, most of my heavy lifting over the years has been in C++ and JAPA but I've definitely used Python and MATLAB for the more mathematical side of things. I've used Python to experiment with machine learning techniques like neural networks and logistic regression. So while I'm coming from a software engineering background, I'm really comfortable using Python to build those models and keep the code clean and organized."
+    },
+    {
+      "role": "agent",
+      "content": "Could you give me an example of a project where you used Python specifically for implementing machine learning algorithms?"
+    },
+    {
+      "role": "candidate",
+      "content": "So yeah, I mainly use Python and met with lab while working through my machine learning coursework and some side projects to implement things like neural networks and logistic regression. I use this model vision based personalized experiences for consumer devices. It really helped me figure out the best way to handle predictive data before I'd go and architect the actual middleware in C++."
+    },
+    {
+      "role": "agent",
+      "content": "Could you provide more details about the project where you used Python and TensorFlow to build neural networks?"
+    },
+    {
+      "role": "candidate",
+      "content": "It was actually part of my work in creating a vision personalized experiences in connected devices by used Python and TensorFlow."
+    },
+    {
+      "role": "agent",
+      "content": "Could you discuss any projects or experiences you’ve had with natural language processing tools such as NLTK, spaCy, or similar libraries in Python?"
+    },
+    {
+      "role": "candidate",
+      "content": "Actually, I didn't work on NSP specific library. It was my background much heavier on embedded systems and controlled theory. I did work on a media player project where I used RISD for JSON APIs. To be totally honest, I haven't used an LTK specifically yet. My focus has been on embedded middleware."
+    },
+    {
+      "role": "agent",
+      "content": "Can you describe a specific project where you utilized Python beyond just building ML models?"
+    },
+    {
+      "role": "candidate",
+      "content": "I used Python for mathematical modeling of control systems, where the main hurdle was ensuring the logic was clean enough to eventually put to low latency production environments. I focused on modularizing the logic and using Python to strictly validate the math first. So to ensure the algorithms were so well organized."
+    },
+    {
+      "role": "agent",
+      "content": "How would you approach identifying and resolving these performance bottlenecks, considering both potential software inefficiencies and possible limitations in the underlying hardware architecture?"
+    },
+    {
+      "role": "candidate",
+      "content": "I think I will use my experience with low latency stack of optimization to provide the system for resource contention then use Linux containers. I use Linux containers to prevent resource hogging and implement minimum copy transfer of buffers. Of course I run to or Nvidia SMI to find resource contention then optimize playback pipelines for minimum copy transfer."
+    },
+    {
+      "role": "agent",
+      "content": "We have covered all my technical questions. Before we finish, do you have any questions for me about the role or the company?"
+    },
+    {
+      "role": "candidate",
+      "content": "I think I have no question. Thank you."
+    }
+  ],
+  "scorecard": {
+    "final_score": "3 / 5",
+    "decision": "Acceptable",
+    "reason": "The candidate provided some technical detail about their experience with Python and machine learning, but lacked specific examples and STAR method usage[cite: 27].",
+    "detailed_report": [
+      "The candidate demonstrated a solid foundation in Python and machine learning, but their responses lacked depth and specificity[cite: 29].",
+      "They did not provide clear examples of how their Python skills were applied to solve real-world problems[cite: 30].",
+      "They did not use the STAR method to describe their experiences[cite: 30].",
+      "The candidate showed a lack of proactive behavior and did not ask any questions during the interview[cite: 28, 31].",
+      "The lack of questions indicates a potential lack of curiosity and engagement with the role and the company[cite: 31]."
+    ]
+  }
+}

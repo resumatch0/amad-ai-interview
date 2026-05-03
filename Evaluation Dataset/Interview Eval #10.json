@@ -1,0 +1,141 @@
+{
+  "job_description": "Job Title: Entry level AI Engineer\n\nResponsibilities:\n- Build and set up machine learning models for Natural Language Processing (NLP). [cite: 1050]\n- Work with AI models like BERT and GPT to handle different tasks. [cite: 1050]\n- Optimize models to ensure they respond quickly and efficiently. [cite: 1050]\n- Collaborate with the team to integrate AI into real applications. [cite: 1050]\n\nRequirements:\n- Comfortable writing code in Python. [cite: 1050]\n- Familiarity with AI tools like PyTorch or Hugging Face. [cite: 1050]\n- Basic understanding of how computers process text (Arabic AI/AraBERT is a plus). [cite: 1050]\n- Ability to write clean and organized code. [cite: 1050]",
+
+  "candidate_cv": {
+    "candidate_name": "ENGINEERING MANAGER",
+    "contact_info": {
+      "location": "City, State",
+      "email": null,
+      "linkedin": null
+    },
+    "career_overview": "A practiced, professional Test Manager with over 20 years of success managing test and validation of next-generation software/hardware technologies across multiple concurrent projects and releases. [cite: 993]\nDelivered effectively to time and budget on a variety of complex, large-scale, multi-platform projects including: complex network framework, IoT, telecommunication and hosted services, business process tools, and automation frameworks. [cite: 994]",
+    "education": [
+      {
+        "degree": "Master of Science: Computer Resource Information Management",
+        "institution": "Webster University",
+        "year": "2004"
+      },
+      {
+        "degree": "Bachelor of Science: Computer Science",
+        "institution": "Kabul University",
+        "year": "1992"
+      }
+    ],
+    "experience": [
+      {
+        "role": "Engineering Manager",
+        "company": "Company Name",
+        "dates": "September 2011 to Current",
+        "responsibilities": [
+          "Scrum master for multiple concurrent scrum teams, facilitating all ceremonies including daily stand-ups, retrospectives, and release planning. [cite: 1003]",
+          "Managing and overseeing a technical, multidisciplinary team of 15+ testers and developers for IoT automation frameworks and SDK test tools. [cite: 1007]",
+          "Instrumental in reducing project integration phases from two weeks to one day by implementing CI automated build and test systems. [cite: 1010, 1011]",
+          "Established and managed fully functional outsourced validation operation in Bangalore, India. [cite: 1009]"
+        ]
+      },
+      {
+        "role": "Director of Quality Assurance",
+        "company": "Company Name",
+        "dates": "July 2009 to September 2011",
+        "responsibilities": [
+          "Responsible for testing Qwarq transport agnostic wireless connectivity framework. [cite: 1015]",
+          "Hired and trained test engineers, planned resources, and scheduled test activities cross-company. [cite: 1016]",
+          "Established the quality assurance department for the company. [cite: 1016]"
+        ]
+      },
+      {
+        "role": "Director of Quality Assurance",
+        "company": "Company Name",
+        "dates": "November 2006 to July 2009",
+        "responsibilities": [
+          "Tested Ultra wide band (Wireless USB) PHY, MAC, drivers, and applications for Windows and embedded platforms. [cite: 1022]",
+          "Tested Bluetopia Bluetooth stack and profiles on different PC and embedded OS platforms. [cite: 1023]",
+          "Managed Microsoft WHQL drivers certification. [cite: 1025]"
+        ]
+      }
+    ],
+    "core_skills": [
+      "audio", "automation", "C", "C++", "CD-ROMs", "Ceridian", "cisco", "Hardware", "cost reduction", "clients", "drivers", "executive management", "Functional", "inspection", "Intel", "Java", "Linux", "MAC", "Managing", "C#", "Windows", "Windows XP", "multimedia", "Objective C", "OS", "software development", "software testing", "validation", "video"
+    ],
+    "extra_sections": {
+      "technical_tools": [
+        "Jira", "Rally", "Clear Quest", "Quality Center", "Sub-version", "GIT", "RTC", "Bugzilla", "Jenkins", "Gerrit"
+      ]
+    }
+  },
+
+  "transcript": [
+    {
+      "role": "agent",
+      "content": "Hello, and welcome. It's great to have you here today. Are you ready to begin the interview? [cite: 1051, 1052]"
+    },
+    {
+      "role": "candidate",
+      "content": "Hi, I'm hoping to meet you here. Let's start the interview. [cite: 1055]"
+    },
+    {
+      "role": "agent",
+      "content": "Could you tell me a bit about your background and how it relates to this position? [cite: 1056]"
+    },
+    {
+      "role": "candidate",
+      "content": "I have over 20 years of experience testing and managing software and hardware projects. Most of my career has been about making sure technology works perfectly before it reaches the customer. My background is management experience, and I am a hard worker focused on high quality. [cite: 1058, 1059, 1060, 1061]"
+    },
+    {
+      "role": "agent",
+      "content": "Can you share an example project where you used Python that relates to our needs? [cite: 1065, 1066]"
+    },
+    {
+      "role": "candidate",
+      "content": "My main technical strategy is in C, C++, C#, and Java. While I have built automation frameworks, I don't have a specific Python project listed. However, I designed a test automation framework across Windows, Android, and iOS using C++, C#, and Java that reduced integration time from two weeks to one day. I can easily apply my coding logic to Python. [cite: 1068, 1069, 1070, 1071, 1072, 1073, 1074, 1075, 1076, 1077]"
+    },
+    {
+      "role": "agent",
+      "content": "Could you describe a scenario where understanding databases might be beneficial for us? For instance, how do your SQL skills fit into the role we’re discussing? [cite: 1081, 1082]"
+    },
+    {
+      "role": "candidate",
+      "content": "My resume doesn't specifically list SQL. However, as a manager for over 20 years, I understand databases are important for tracking data, SaaS, and cloud automation results. I use the results of database work every day to ensure products are high quality. [cite: 1084, 1085, 1086, 1087]"
+    },
+    {
+      "role": "agent",
+      "content": "Can you provide an example of how your familiarity with Linux contributed to a significant improvement in a previous project or helped resolve a critical issue? [cite: 1093, 1094]"
+    },
+    {
+      "role": "candidate",
+      "content": "Linux has been part of my work for many years, especially in testing. We were developing an IoT automation framework across platforms including Linux. I supervised the development of a CI system using Jenkins and Gerrit in a Linux environment to catch bugs faster. [cite: 1096, 1097, 1098, 1100]"
+    },
+    {
+      "role": "agent",
+      "content": "Could you please elaborate more on the specific tools or techniques you used within the Linux environment to manage the automated kit bugs? [cite: 1103]"
+    },
+    {
+      "role": "candidate",
+      "content": "I implemented Gerrit for web-based code reviews on Linux, reducing regression cycles by 50%. We used GIT and Subversion for version control. I supervised test tools using C, C++, and Java that intersect with Linux OS to test IoT and network applications. [cite: 1106, 1108, 1109, 1110]"
+    },
+    {
+      "role": "agent",
+      "content": "Could you explain how your shell scripting skills were utilized in a past project, particularly in relation to automating tasks or solving complex issues related to infrastructure management? [cite: 1116]"
+    },
+    {
+      "role": "candidate",
+      "content": "Shell scripting was the 'glue'. By automating manual steps, I helped reduce the integration phase from two weeks to one day. I stayed close to technical details to make sure scripts were reliable and efficient. [cite: 1118, 1120, 1121] (Candidate later asked to skip specific details on this [cite: 1124])"
+    },
+    {
+      "role": "agent",
+      "content": "Imagine several server crashes due to overheating despite cooling solutions being maintained. What steps would you take to diagnose and resolve these issues? [cite: 1129, 1130, 1131]"
+    },
+    {
+      "role": "candidate",
+      "content": "I would check the logs and identify patterns to determine the issue. I'd use a strategic approach to gather data, focusing on centralized monitoring tools like Quality Center and dashboards to look at all servers at once. [cite: 1134, 1138, 1140, 1141]"
+    },
+    {
+      "role": "agent",
+      "content": "Do you have any questions for me about the role or the company? [cite: 1149]"
+    },
+    {
+      "role": "candidate",
+      "content": "No. Thank you for your time. [cite: 1151]"
+    }
+  ]
+}
